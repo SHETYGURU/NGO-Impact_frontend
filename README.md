@@ -4,7 +4,6 @@ A full‑stack application to manage NGO monthly reports, CSV uploads, backgroun
 
 ## Live Link [Click Here](https://ngoimpact.netlify.app)
 
----
 
 
 
