@@ -252,12 +252,3 @@ Solution: Ensure all numeric fields are provided or defaults are set in schema.
 
 ---
 
-## 📄 License
-
-MIT License
-
----
-
-## 🙌 Author
-
-NGO Impact App – Internal Tool
