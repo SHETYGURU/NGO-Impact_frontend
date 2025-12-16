@@ -230,7 +230,6 @@ Frontend shows:
 
 ![Dashboard Screenshot](./screenshots/dashboard.png)
 
-> 📌 Create a `screenshots/` folder in the project root and place UI screenshots there.
 
 ---
 
